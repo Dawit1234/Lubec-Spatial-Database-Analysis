@@ -165,3 +165,26 @@ It also strengthened my understanding of how spatial databases can support geogr
 
 **Author:** Dawit Kahsay  
 **Focus:** Spatial Data Engineering | GIS | Geospatial Databases
+
+## 13. Project Screenshots
+
+### Question 1: Road Analysis
+![Q1 SQL Result](Screenshots/Q1_SQL_Result.png)
+![Q1 QGIS Map](Screenshots/Q1_QGIS_Map.png)
+
+### Question 2: Shortest Road
+![Q2 SQL Result](Screenshots/Q2_SQL_Result.png)
+![Q2 QGIS Map](Screenshots/Q2_QGIS_Map.png)
+
+### Question 3: Largest Parcel
+![Q3 SQL Result](Screenshots/Q3_SQL_Result.png)
+![Q3 QGIS Map](Screenshots/Q3_QGIS_Map.png)
+
+### Question 4: Average Parcel Area
+![Q4 SQL Result](Screenshots/Q4_SQL_Result.png)
+![Q4 QGIS Map](Screenshots/Q4_QGIS_Map.png)
+
+### Question 5: Coastal Parcel Analysis
+![Q5 SQL Result](Screenshots/Q5_SQL_Result.png)
+![Q5 QGIS Map](Screenshots/Q5_QGIS_Map.png)
+
