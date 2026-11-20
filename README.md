@@ -156,6 +156,7 @@ This project provided practical experience working with spatial datasets in a re
 It also strengthened my understanding of how spatial databases can support geographic data management, land analysis, and GIS applications.
 
 
+
 ## 12. Project Screenshots
 
 ### Question 1: Road Analysis
@@ -177,6 +178,7 @@ It also strengthened my understanding of how spatial databases can support geogr
 ### Question 5: Coastal Parcel Analysis
 ![Q5 SQL Result](Screenshots/Q5_SQL_Result.png)
 ![Q5 QGIS Map](Screenshots/Q5_QGIS_Map.png)
+
 
 
 
