@@ -127,26 +127,33 @@ The project follows a practical spatial database workflow:
 
 ## 10. Repository Structure
 
+## 10. Repository Structure
+
 ```text
 Lubec-Spatial-Database-Analysis/
 │
 ├── README.md
 │
 ├── QGIS/
-│   └── LubecProject.qgz
+│   ├── LubecProject.qgz
+│   └── README.md
 │
 ├── SQL/
-│   └── spatial_analysis_queries.sql
+│   ├── spatial_analysis_queries.sql
+│   └── README.md
 │
-├── Analysis/
-│   ├── Q1_Count_Roads/
-│   ├── Q2_Shortest_Road/
-│   ├── Q3_Largest_Residential_Parcel/
-│   ├── Q4_Average_Residential_Area/
-│   └── Q5_Coastal_Parcels/
-│
-└── Setup/
-    └── Database_and_QGIS_Setup/
+└── Screenshots/
+    ├── Q1_QGIS_Map.png
+    ├── Q1_SQL_Result.png
+    ├── Q2_QGIS_Map.png
+    ├── Q2_SQL_Result.png
+    ├── Q3_QGIS_Map.png
+    ├── Q3_SQL_Result.png
+    ├── Q4_QGIS_Map.png
+    ├── Q4_SQL_Result.png
+    ├── Q5_QGIS_Map.png
+    ├── Q5_SQL_Result.png
+    └── README.md
 ```
 
 ## 11. Project Outcome
